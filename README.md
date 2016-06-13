@@ -13,7 +13,7 @@ If you want to access the file "CoolFile.dat" in your working folder, you can si
     var fa = new CoolAccess();
     byte[] myFileContent = (byte[])fa.CoolFile.dat;
     
-And CoolFile will do the magic!
+And CoolFiles will do the magic!
 
 If there are invalid C# characters in your file name, say CoolMyInvalidCharacters@##.dat you can write:
 
