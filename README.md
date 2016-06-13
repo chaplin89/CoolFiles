@@ -19,7 +19,7 @@ If there are invalid C# characters in your file name, say CoolMyInvalidCharacter
 
     byte[] myFileContent = (byte[])fa.Cool("MyInvalidCharaters@##.").dat
 
-There are also cast for string and array of strings (lines):
+There are also casts for string and array of strings (lines):
 
     string myFileContent = (string)fa.CoolFile.dat;
     string[] myFileContentLines = (string[])fa.CoolFile.dat;
