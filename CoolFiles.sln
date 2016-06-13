@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolFiles", "CoolFiles\CoolFiles.csproj", "{FC5D6CC7-0C7A-4385-82AF-053DDE6237C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coolfiles.Tests", "Coolfiles.Tests\Coolfiles.Tests.csproj", "{036A128C-3BBD-4EFF-94E2-9BB1633D54EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolFiles.Tests", "Coolfiles.Tests\CoolFiles.Tests.csproj", "{036A128C-3BBD-4EFF-94E2-9BB1633D54EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
