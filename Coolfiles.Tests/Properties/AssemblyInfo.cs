@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Le informazioni generali relative a un assembly sono controllate dal seguente 
 // set di attributi. Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
-[assembly: AssemblyTitle("CoolFiles")]
+[assembly: AssemblyTitle("Coolfiles.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CoolFiles")]
+[assembly: AssemblyProduct("Coolfiles.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,13 +20,13 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-[assembly: Guid("fc5d6cc7-0c7a-4385-82af-053dde6237c5")]
+[assembly: Guid("036a128c-3bbd-4eff-94e2-9bb1633d54ef")]
 
 // Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 //
-//      Versione principale
-//      Versione secondaria 
-//      Numero di build
+//      Numero di versione principale
+//      Numero di versione secondario 
+//      Numero build
 //      Revisione
 //
 // È possibile specificare tutti i valori oppure impostare valori predefiniti per i numeri relativi alla revisione e alla build 
