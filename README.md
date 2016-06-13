@@ -6,12 +6,15 @@ It will make you save typing precious characters while programming, while adding
 
 ## How it works
 
-It's very simple. If you want to access the file "CoolFile.dat" in your working folder, you can simply write:
+It's damn simple!
+
+If you want to access the file "CoolFile.dat" in your working folder, you can simply write:
 
     var fa = CoolAccess();
     byte[] myFileContent = (byte[])fa.CoolFile.dat;
     
-And CoolFile will do the rest!
+And CoolFile will do the magic!
+
 If there are invalid C# characters in your file name, say CoolMyInvalidCharacters@##.dat you can write:
 
     byte[] myFileContent = (byte[])fa.Cool("MyInvalidCharaters@##.").dat
