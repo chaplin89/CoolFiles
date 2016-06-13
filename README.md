@@ -17,7 +17,7 @@ And CoolFiles will do the magic!
 
 If there are invalid C# characters in your file name, say CoolMyInvalidCharacters@##File.dat you can write:
 
-    byte[] myFileContent = (byte[])ca.Cool("MyInvalidCharaters@##File.").dat
+    byte[] myFileContent = (byte[])ca.Cool("MyInvalidCharaters@##").File.dat
 
 There are also casts for string and array of strings (lines):
 
