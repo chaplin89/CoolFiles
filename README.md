@@ -10,7 +10,7 @@ It's damn simple!
 
 If you want to access the file "CoolFile.dat" in your working folder, you can simply write:
 
-    var fa = CoolAccess();
+    var fa = new CoolAccess();
     byte[] myFileContent = (byte[])fa.CoolFile.dat;
     
 And CoolFile will do the magic!
